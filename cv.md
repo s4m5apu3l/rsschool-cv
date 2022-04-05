@@ -28,7 +28,8 @@
 
 
 ## Code Example
-```document.addEventListener("DOMContentLoaded", function () {
+```js
+document.addEventListener("DOMContentLoaded", function () {
   const tabs = document.querySelector(".lower-block__tabs");
   const tabsBtn = document.querySelectorAll(".tabs-btn");
   const tabsContent = document.querySelectorAll(".tabs__content");
