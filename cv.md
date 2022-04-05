@@ -60,6 +60,7 @@
 ## Courses
 
 **[Stepik HTML&CSS course](https://stepik.org/38218)**
+**[RSSCHOOL stage#1](https://rs.school/js/)**
 
 ## Language
 
