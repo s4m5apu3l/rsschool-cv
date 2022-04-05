@@ -1,6 +1,6 @@
 # Viacheslav Ignatev
 
-![my avatar](./assets/img/avatar.png "avatar")
+![my avatar](./img/avatar.png "avatar")
 
 > u get what u give
 
