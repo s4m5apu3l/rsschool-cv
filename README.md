@@ -1,1 +1,1 @@
-# rsschool-sv
+# rsschool stage#1 Slava Ignatev
