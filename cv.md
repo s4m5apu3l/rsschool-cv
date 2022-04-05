@@ -54,3 +54,18 @@
     document.querySelector(`[data-tabs-target="${path}"]`).classList.add("tabs__content-active");
   };
 ```
+## Experience
+[Мой профиль в GitHub](https://github.com/s4m5apu3l)
+
+## Courses
+
+**[Stepik HTML&CSS course](https://stepik.org/38218)**
+
+## Language
+
+ |Language   | Level            |
+ |:-------   |:------:          |
+ |Russian    | Good             |
+ |English    | Pre-Intermediate |
+ |Yakutian   | Native           |
+
