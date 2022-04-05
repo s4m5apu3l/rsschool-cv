@@ -28,3 +28,29 @@
 
 
 ## Code Example
+```document.addEventListener("DOMContentLoaded", function () {
+  const tabs = document.querySelector(".lower-block__tabs");
+  const tabsBtn = document.querySelectorAll(".tabs-btn");
+  const tabsContent = document.querySelectorAll(".tabs__content");
+
+  if (tabs) {
+    tabs.addEventListener("click", function (e) {
+      if (e.target.classList.contains("tabs-btn")) {
+        const tabsPath = e.target.dataset.tabsPath;
+        tabsBtn.forEach((el) => {
+          el.classList.remove("active-btn");
+        });
+        document.querySelector(`[data-tabs-path="${tabsPath}"]`).classList.add("active-btn");
+        tabsHandler(tabsPath);
+        document.querySelector('[data-tabs-target="' + tabsPath + '"]>.list>li>button').click();
+      }
+    });
+  }
+
+  const tabsHandler = (path) => {
+    tabsContent.forEach((el) => {
+      el.classList.remove("tabs__content-active");
+    });
+    document.querySelector(`[data-tabs-target="${path}"]`).classList.add("tabs__content-active");
+  };
+```
