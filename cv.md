@@ -13,6 +13,7 @@
  
  Two stab wounds instead of eyes;). Life quote *you get, what you give*. So i will work harder in the near future.
  My purpose is to become a good programmer, who will provide at least some benefit to the society
+ At the moment im currently working on a position Frontend developer, experience 1 year.
 
 ## Skills
 
