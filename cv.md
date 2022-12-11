@@ -6,8 +6,8 @@
 
 ## Contacts
 
-**Discord:** asper#9841 [diskord user URL](https://discord.com/users/419482375165313025 "asper url")
-**VK:** [slava asperatuz](https://vk.com/abahu "slava vk")
+**Discord:** asper#9841 [diskord](https://discord.com/users/419482375165313025 "asper url")
+**VK:** [slava vk page](https://vk.com/abahu "slava vk")
 
 ## About me
  
