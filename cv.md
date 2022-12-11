@@ -11,7 +11,7 @@
 
 ## About me
  
- Two stab wounds instead of eyes;) Just started to delve into the FrontEnd. Life quote *you get, what you give*. So i will work harder in the near future.
+ Two stab wounds instead of eyes;). Life quote *you get, what you give*. So i will work harder in the near future.
  My purpose is to become a good programmer, who will provide at least some benefit to the society
 
 ## Skills
