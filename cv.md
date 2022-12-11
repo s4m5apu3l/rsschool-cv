@@ -1,6 +1,6 @@
 # Viacheslav Ignatev
 
-![my avatar](./img/avatar.png "avatar")
+![my avatar](./img/avatar.jpg "avatar")
 
 > u get what u give
 
@@ -18,7 +18,7 @@
 
  |Language   | Level % |
  |:----------|:-------:|
- |HTML 	     | 100/100  |
+ |HTML 	     | 90/100  |
  |CSS        | 90/100  |
  |JavaScript | 70/100  |
  |Git        | 90/100  |
